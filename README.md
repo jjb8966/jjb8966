@@ -14,7 +14,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jjb8966&theme=gruvbox&hide=issues,contribs" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjb8966&layout=compact&theme=gruvbox" height="180" />
-  </br>
-  <img src="http://mazassumnida.wtf/api/generate_badge?boj=jjb8966" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjb8966&layout=compact&theme=gruvbox" height="180"/>
+  <img src="http://mazassumnida.wtf/api/generate_badge?boj=jjb8966"/>
 </p>
