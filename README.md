@@ -13,7 +13,7 @@
 <img src="https://img.shields.io/badge/java-orange?style=for-the-badge&logo=java"/> <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/IntelliJ-A111C4?style=for-the-badge&logo=IntelliJIDEA&logoColor=white"/>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jjb8966&theme=gruvbox&hide=issues,contribs" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjb8966&layout=compact&theme=gruvbox" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=jjb8966&theme=gruvbox&hide=issues,contribs" height="180" width="500"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjb8966&layout=compact&theme=gruvbox" height="180" width="300"/>
   <img src="http://mazassumnida.wtf/api/generate_badge?boj=jjb8966"/>
 </p>
